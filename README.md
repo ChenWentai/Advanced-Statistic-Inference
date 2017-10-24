@@ -5,4 +5,4 @@ The course focuses on the principles of learning from data and quantification of
 
 The exercise is based on MNIST and CIFAR 10 dataset, using naive bayses classifier and bayes linear classification to predict the label of the dataset. Both algorithms are implemented by myself instead of calling the existing package from sklearn, etc.  
 
-All the code and comments are completed in the jupyter notebook "ASI exercise".
+All the code and comments are completed in the jupyter notebook "ASI exercise". 
